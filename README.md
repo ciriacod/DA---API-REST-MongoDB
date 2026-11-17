@@ -1,4 +1,4 @@
-# tienda-api-mvc
+# API-REST-MONGODB
 
 API RESTful de tienda virtual con Node.js, Express, MongoDB (Mongoose) y JWT, patrón MVC.
 
